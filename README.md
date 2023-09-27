@@ -1,8 +1,8 @@
 # BlogNews
 
  Olá me chamo Yorran, estou iniciando meus estudos na area de desenvolvimento.
- Fiz essa pokedex junto com as aulas da plataforma da [(https://www.dio.me/).
- Se você possui alguma sugestão de melhoria ou ideais para projetos, entre em contato pelas minhas redes socias abaixo ou abra uma das Issues, terei o prazer em atender a sugestão.
+ Segundo proposto o desafio a criação de um blog usando @AngularCLI junto com as aulas da plataforma da [(https://www.dio.me/).
+ Este projeto foi todo elaborado a fins de educação e aperfeiçoar o uso de frameWorks e desenvolvimento de web. Todos os dados usado no site é de objeto de ficção.
 
 # Minhas redes sociais.
 [![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook)](https://www.facebook.com/SEUUSERNAME/)
