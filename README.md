@@ -20,8 +20,8 @@
 
 ## EN/US
 Hello, my name is Yorran, I'm starting my studies in the development area.
-I made this pokedex along with the classes on the [(https://www.dio.me/) platform.
-If you have any suggestions for improvement or ideas for projects, get in touch through my social networks below or open one of the Issues, I will be happy to respond to the suggestion.
+As proposed, the challenge was to create a blog using @AngularCLI along with classes on the [(https://www.dio.me/) platform.
+This project was entirely designed for educational purposes and to improve the use of frameWorks and web development. All data used on the website is fictional.
 # My social networks.
 [![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook)](https://www.facebook.com/SEUUSERNAME/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/yorran-gustavo-22830780/)
