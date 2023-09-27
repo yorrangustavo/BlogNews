@@ -1,0 +1,13 @@
+.cards-components{
+display: flex;
+justify-content: center;
+}
+.small-card{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+.small-components{
+    padding: 5px;
+}

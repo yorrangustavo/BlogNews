@@ -1,0 +1,28 @@
+.container-menu{
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    justify-content: center;
+    padding: 10px;
+    gap: 83px;
+    border-bottom: 1px solid;
+  
+  }
+  
+  .container-menu > .menu-list > a{
+    list-style: none;
+    text-decoration: none;
+    color: #000000;
+    font-family: 'Roboto', sans-serif;
+  
+  }
+  li{
+    list-style:none;
+    text-decoration: none;
+  }
+  
+   .menu-list:hover{
+    transition: 1s;
+    background-color: rgb(36, 126, 243);
+  }
+  

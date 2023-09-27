@@ -1,0 +1,17 @@
+.rodape{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid black;
+    width: 100%;
+    height: 200px;
+    background-color: rgb(184, 184, 184);
+}
+.rede-social{
+    width: 80px;
+    margin-top: 2rem;
+    padding: .3rem;
+}
+p{
+    color: rgb(139, 139, 139);
+}

@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Arizonia&display=swap');
+
+.container-menu{
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 3px
+}
+.container-menu h1 {
+    font-family: 'Arizonia', cursive;
+  color: #000000;
+  padding: 1rem;
+  font-size: 60px;
+}
+img{
+  width: 5rem;
+}
